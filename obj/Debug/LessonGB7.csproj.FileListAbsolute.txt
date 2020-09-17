@@ -1,0 +1,12 @@
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.csprojAssemblyReference.cache
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.Form1.resources
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.Properties.Resources.resources
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.csproj.GenerateResource.cache
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.csproj.CoreCompileInputs.cache
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\bin\Debug\LessonGB7.exe.config
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\bin\Debug\LessonGB7.exe
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\bin\Debug\LessonGB7.pdb
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.exe
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.pdb
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.Form2.resources
+D:\Gamedev\Study\C#Learning\LessonGB7\LessonGB7\obj\Debug\LessonGB7.Form3.resources
